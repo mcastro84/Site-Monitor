@@ -14,7 +14,7 @@ When all Urls are checked, an email is sent with a list of unavailable urls.
 
 1. Clone project
     * git clone https://github.com/mcastro84/site-monitor.git
-    * cd website-monitor
+    * cd site-monitor
 
 2. Create VM (Ubuntu 16.04 VM with: PHP7.2, MySQL5.7, Nginx, Redis Server and Supervisor)
     * vagrant up
